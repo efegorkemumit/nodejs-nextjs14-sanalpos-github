@@ -1,5 +1,5 @@
 <a href="" rel="nofollow">
-<img src="https://github.com/efegorkemumit/nodejs-nextjs14-sanalpos-github/blob/master/sanalpos.jpg"
+<img src="https://github.com/efegorkemumit/nodejs-nextjs14-sanalpos-github/blob/main/sanalpos.jpg"
  style="max-width: 100%;">
 </a>
 
