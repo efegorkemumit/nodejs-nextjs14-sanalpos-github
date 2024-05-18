@@ -32,10 +32,6 @@
 
 
 - Video Tutorial : Yakında
-- Store Github: https://github.com/efegorkemumit/online-grocery-nextjs14
-- Cms Github: https://github.com/efegorkemumit/cms-grocery-online
-
-
 
 
 ## NextJS NodeJS ile İyzico Sanal Pos Entagrasyon | Iyzipay | Payment System | Kredi Kartı ile Ödeme Alma
